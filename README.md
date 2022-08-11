@@ -19,15 +19,15 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
+        <img src="./img/angular-icon.svg" width="48" height="48" alt="Angular" />
       </a>
-      <br>Go
+      <br>Angular
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
+        <img src="./img/php-1.svg" width="48" height="48" alt="php" />
       </a>
-      <br>Jsonnet
+      <br>PHP
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
